@@ -1,0 +1,112 @@
+.bg{
+	width: 800px;
+	height: 1500px;
+	background-color:  yellowgreen;
+	margin-right: auto;
+	margin-left: auto;
+}
+.pic img{
+	width: 700px;
+	height:  700px;
+	margin-top:  0px;
+	margin-left: 50px;
+}
+.itc img{
+	width: 60px;
+	height:  60px;
+	margin-top: 10px;
+	margin-left: 720px;
+}
+.text h1{
+	font-family: "impact", fantasy;
+	font-size: 100px;
+	margin-left: 100px;
+	text-decoration: blink;
+}
+.omnitrix img{
+	position: relative;
+	margin-top: -60px;
+	width: 80px;
+	height:  80px;
+	margin-left: 20px;
+}
+.big{
+	margin-top: 70px;
+	margin-left: 75px;
+	margin-right: 30px;
+}
+.ben h6{
+	position: relative;
+	margin-top: -50px;
+	margin-left: 290px;
+	font-size: 15px;
+}
+.c img{
+	width: 20px;
+	height :20px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.cp h5{
+	position: relative;
+	margin-top: -23px;
+	margin-left: 55px;
+}
+.alien img{
+	width: 100px;
+	height: 100px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.sandal img{
+	position: relative;
+	top: -105px;
+	height: 100px;
+	width: 680px;
+	margin-left: 120px;
+}
+.note{
+	position: relative;
+	margin-top: -220px;
+	margin-left: 130px;
+}
+.watch img{
+	width:  30px;
+	height:  30px;
+	margin-top: 15px;
+	margin-left:760px;
+}
+.customize{
+	position: relative;
+	margin-top: -40px;
+	margin-left: 530px;
+}
+.rate{
+	position: relative;
+	margin-top: -50px;
+	margin-left: 30px;
+}
+.barcode img{
+	position: relative;
+	width: 70px;
+	height: 35px;
+	top:  -50px;
+	margin-left: 150px;
+}
+.qrcode img{
+	position: relative;
+	width: 35px;
+	height: 35px;
+	top:  -90px;
+	margin-left: 700px;
+}
+.quote{
+	position: relative;
+	top:  -135px;
+	margin-left: 350px;
+}
+.new h3{
+	positon:  relative;
+	font-family: "impact", fantasy;
+	margin-top: -900px;
+}
